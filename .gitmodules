@@ -1,0 +1,6 @@
+[submodule "lib/commonlibf4"]
+	path = lib/commonlibf4
+	url = https://github.com/Dear-Modding-FO4/commonlibf4
+[submodule "lib/detours"]
+	path = lib/detours
+	url = https://github.com/Nukem9/detours
